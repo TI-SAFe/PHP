@@ -1,6 +1,7 @@
 # PHP
 Exemplo de integração SAFe com PHP.
 
+###### application/json, text/json
 ```PHP
 <?php
 function RequestToken(){
